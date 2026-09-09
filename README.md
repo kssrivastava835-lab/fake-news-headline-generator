@@ -1,7 +1,7 @@
 # fake-news-headline-generator
 A Python project that generate random funny news headlines using lists and loops.
-Author - Kshitij Srivastava
-# Fake News Headline Generator 
+Author  Kshitij Srivastava
+Fake News Headline Generator 
 
 A fun Python project that generate random and hilarious news headlines using predefined list.
 
